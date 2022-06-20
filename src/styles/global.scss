@@ -1,0 +1,53 @@
+@use './cssreset.css';
+@use './colors.scss';
+@use './utilities.scss';
+@use './grid.scss';
+@use './style.scss';
+@use './responsive.scss';
+@use './darkmode.scss';
+
+
+// fonts
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Light.woff');
+    font-weight: 300;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Regular.woff');
+    font-weight: normal;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Medium.woff');
+    font-weight: 500;
+}
+
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Bold.woff');
+    font-weight: bold;
+}
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Heavy.woff');
+    font-weight: 800;
+}
+@font-face {
+    font-family: 'YekanBakh';
+    src: url('./fonts/yekan-bakh/Yekan-Bakh-Fat.woff');
+    font-weight: 900;
+}
+
+body {
+    background: var(--secondary-bg);
+    color: var(--primary-text);
+    font-family: 'YekanBakh', sans-serif;
+    direction: rtl;
+    font-size: 1rem;
+    font-weight: 500;
+    line-height: 1.55;
+}
