@@ -3,10 +3,6 @@ import { LahzeNegarLogo, NeshanLogo, PasargadLogo, ZarinPalLogo } from "../icons
 
 const CustomersQuote = () => {
 
-    for (let i = 0; i < 5; i++) {
-        console.log('Walking east one step');
-    }
-
     return (
         <div className="home-customers__card-wrapper">
             {
