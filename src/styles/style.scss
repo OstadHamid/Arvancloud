@@ -565,7 +565,7 @@
         }
 
         &.active {
-            background: #fff;
+            background: var(--primary-bg);
         }
 
         &.active & {
