@@ -456,7 +456,7 @@
         }
 
         &__item {
-            border-radius: 16px;
+            padding: 24px;
 
             &-wrapper {
                 margin: 0 auto;
@@ -818,6 +818,12 @@
             img {
                 height: 456px;
             }
+        }
+    }
+
+    .home-access{
+        &__item {
+            border-radius: 16px;
         }
     }
 
