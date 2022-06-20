@@ -13,7 +13,7 @@ the [ArvanCloud.com](https://arvancloud.com) template made using React, Typescri
 
 ## Demo
 
-Click [here](https://arvancloud.netlify.app) to see the website!
+Click [here](https://arvan.netlify.app) to see the website!
 
 ---
 
@@ -39,7 +39,7 @@ don't forget to ⭐ it!
 
 ## پیشنمایش
 
-برای مشاهده وبسایت [اینجا](https://arvancloud.netlify.app) کلیک کنید
+برای مشاهده وبسایت [اینجا](https://arvan.netlify.app) کلیک کنید
 
 ---
 
